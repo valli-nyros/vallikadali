@@ -1,0 +1,24 @@
+ body{
+  background-color:white;
+  font-size: 20px;
+  background-image: url("my.png");
+  background-repeat: no-repeat;
+  background-size: 1300px 800px;
+ }
+ a:hover{
+  background-color: green;
+  }
+.topnav {
+  overflow: hidden;
+  background-color: red;
+  padding-left: 100px;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 60px 50px;
+  text-decoration: none;
+  font-size: 25px;
+}
